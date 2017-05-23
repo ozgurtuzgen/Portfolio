@@ -1,0 +1,22 @@
+
+img {
+  max-width: 100%;  
+}
+
+hr{
+	border-top: 4px solid #7d97ad ;
+    margin: 0;
+}
+
+footer {
+    text-align: center;
+}
+
+h1 {
+    margin-top: 1em;
+}
+
+h4 {
+    margin-left: 1em;
+    font-style: italic;
+}
