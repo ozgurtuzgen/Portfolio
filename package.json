@@ -2,13 +2,12 @@
   "name": "portfolio",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {    
-  },
+  "scripts": {},
   "private": true,
-  "dependencies": {    
-    "bootstrap": "^3.3.7",    
-    "css-social-buttons": "^1.1.1"    
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "css-social-buttons": "^1.1.1",
+    "jquery": "^3.2.1"
   },
-  "devDependencies": {    
-  }
+  "devDependencies": {}
 }
