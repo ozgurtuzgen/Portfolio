@@ -5,21 +5,10 @@ body {
   padding-bottom: 20px;
 }
 
-@media screen and (min-width: 232px) and (max-width: 766px) {
+@media screen and (max-width: 766px) {
     body {
         padding-top: 235px;
         padding-bottom: 20px;
-    }
-}
-
-@media screen and (max-width: 231px) {
-    body {
-        padding-top: 268px;
-        padding-bottom: 20px;
-    }
-
-    #project-logo {
-        width: 50px;
     }
 }
 
